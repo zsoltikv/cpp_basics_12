@@ -1,0 +1,17 @@
+/*
+Magasság méréseket végeztünk egy repülőről a felszállástól(1. mérési pont) folyamatosan 50 méterenként. 
+A mért magasságokat a szigetek.txt állomány tartalmazza, az adatokat szóköz választja el. 
+Amennyiben a mért magasság 0, akkor tenger felett jártunk ha 0-tól eltérő(lehet negatív is – mélyföld) 
+akkor sziget felett.
+- olvassuk be az adatokat egy dinamikus tömbbe
+- írassuk ki a magasságokat(soronként 8 adat), "táblázatosan"
+	minta:
+		Magassági adatok
+				1.	
+				 124 	35	  0     9   111   180    0     0
+				9.		    
+				  75 …
+- adjuk meg a mérések számát
+- a legnagyobb mért magasságot
+- hogy hányszor mértünk a tenger felett?
+*/
